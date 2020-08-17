@@ -1,6 +1,8 @@
 # Refactoring_step_by_step
 
-The main pourpose of this repo is to exercise my self using the book, "Refactoring: Improving the Design of Existing Code" by Martin Fowler 
+The main pourpose of this repo is to exercise my self using the book: 
+
+ - "Refactoring: Improving the Design of Existing Code" by Martin Fowler 
 
 I'll use Python, insted of javascript, because i know know JS yet but will learn it some day. ( i hope!... )
 
