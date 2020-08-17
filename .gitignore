@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # ignore files of pycharm settings
-*.xml *.iml
+*.xml
+
+*.iml
