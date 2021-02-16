@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore files of pycharm settings
+*.xml
+
+*.iml
